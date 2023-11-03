@@ -1,0 +1,25 @@
+{
+    "data": [
+      {
+        "action": "Action 1",
+        "productName": "Paracetamol (8908871000322)",
+        "parentBatch": "API001",
+        "batchNumber": "API007",
+        "batchSize": "10 Kg",
+        "manufactureDate": "2023-10-16",
+        "expiryDate": "2033-10-01",
+        "status": "Active"
+      },
+      {
+        "action": "Action 2",
+        "productName": "Another Product",
+        "parentBatch": "API002",
+        "batchNumber": "API008",
+        "batchSize": "5 Kg",
+        "manufactureDate": "2023-10-18",
+        "expiryDate": "2033-10-02",
+        "status": "Inactive"
+      }
+    ]
+  }
+  

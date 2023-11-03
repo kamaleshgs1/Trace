@@ -1,0 +1,9 @@
+.details-panel {
+  position:fixed;
+  top: 10px; /* Adjust the top margin as needed */
+  left: 10px; /* Adjust the left margin as needed */
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 1;
+}

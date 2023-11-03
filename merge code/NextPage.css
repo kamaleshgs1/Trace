@@ -1,0 +1,14 @@
+.blue-table {
+    background-color: blue;
+    color: white;
+  }
+  
+  .blue-table td {
+    padding: 10px; /* Add padding for better readability */
+  }
+  .lblue{
+    background-color: rgb(217, 220, 208);
+  }
+  .act{
+    color: green;
+  }
